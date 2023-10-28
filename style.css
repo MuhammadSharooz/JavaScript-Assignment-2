@@ -17,6 +17,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     color: #fff;
+    backdrop-filter: blur(15px 15px);
 
 }
 .column1{
