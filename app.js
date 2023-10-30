@@ -447,6 +447,7 @@ if (temp >= 40) {
    alert("OMG!Today's Weather  is so cool.")
 }
 
+// Question # 11
 var numOne = +prompt("Enter First Number")
 var numTwo = +prompt("Enter second Number")
 var operator = prompt("Enter a operator")
